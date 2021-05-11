@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo_4</string>
+    <string name="SecondActivity2"></string>
+    <string name="editText_main">Enter your text here</string>
+    <string name="editText_second">Enter you reply here</string>
+    <string name="enter_your_text_here">Enter your text here</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
